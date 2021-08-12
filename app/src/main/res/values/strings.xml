@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ottawa Mobile Development Meetup</string>
+    <string name="intro">Hey there! This is a basic demo of MVVM!</string>
+</resources>
