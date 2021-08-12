@@ -1,4 +1,4 @@
-package info.aiavci.basicmvvm.Activities
+package info.aiavci.basicmvvm.activities.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

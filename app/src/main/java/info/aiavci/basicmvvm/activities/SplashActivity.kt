@@ -1,4 +1,4 @@
-package info.aiavci.basicmvvm.Activities
+package info.aiavci.basicmvvm.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
